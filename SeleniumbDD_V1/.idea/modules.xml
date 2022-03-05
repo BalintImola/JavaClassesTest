@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SeleniumBDDD.iml" filepath="$PROJECT_DIR$/SeleniumBDDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumBdd.iml" filepath="$PROJECT_DIR$/SeleniumBdd.iml" />
     </modules>
   </component>
 </project>
